@@ -7706,12 +7706,12 @@ button.bg-dark:focus {
 .my-5 {
   margin-top: 3rem !important;
 }
-
+/*
 .mr-5,
 .mx-5 {
   margin-right: 3rem !important;
 }
-
+*/
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
@@ -9751,10 +9751,9 @@ h6,
 .btn-social {
   width: 90px;
   height: 90px;
-  padding-left: 0;
-  padding-right: 0;
   text-align: center;
-  font-size: 3rem;
+  margin: 0 0.5rem 0 0.5rem;
+  font-size: 2.5rem;
   border-radius: 45px;
 }
 
